@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\VolumeWalls.dll"</Assembly>
+		<AddInId>0474FD7E-2EA9-4B02-804F-D75E7C34DD21</AddInId>
+		<FullClassName>VolumeWalls.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>Объем стен</Text>	
+	</AddIn>
+</RevitAddIns>
